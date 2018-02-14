@@ -1,8 +1,9 @@
 # tetris-ai
 Tetris bot vs. human player
 
+For a live gameplay demo, see video "gameplay - user vs. ai"
 
-To play game: Download and open TetrisAiGame.jar file
+To play game: Download and run TetrisAIGame.jar 
  
  * USER CONTROLS:
  * Left arrow key to shift piece to left 
@@ -16,4 +17,3 @@ To play game: Download and open TetrisAiGame.jar file
  * Esc key to pause game
  * R key to restart game 
  
- For a live gameplay demo, see video "gameplay - user vs. ai"
